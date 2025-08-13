@@ -1,0 +1,220 @@
+Ingredient,Possible Allergens
+Wheat,Gluten Allergy/Wheat Allergy
+Barley,Gluten Allergy
+Rye,Gluten Allergy
+Oats,Gluten Allergy/Oat Sensitivity
+Rice,Rice Allergy
+Corn,Corn Allergy
+Quinoa,Pseudocereal Allergy
+Buckwheat,Buckwheat Allergy
+Amaranth,Pseudocereal Allergy
+Millet,Grain Allergy
+Spelt,Gluten Allergy
+Bulgur,Gluten Allergy
+Couscous,Gluten Allergy
+Semolina,Gluten Allergy
+Milk,Milk Allergy/Lactose Intolerance
+Butter,Milk Allergy/Lactose Intolerance
+Cheese,Milk Allergy/Lactose Intolerance
+Cream,Milk Allergy/Lactose Intolerance
+Yogurt,Milk Allergy/Lactose Intolerance
+Ice Cream,Milk Allergy/Lactose Intolerance
+Buttermilk,Milk Allergy/Lactose Intolerance
+Whey,Milk Allergy/Lactose Intolerance
+Casein,Milk Allergy
+Ghee,Milk Allergy
+Sour Cream,Milk Allergy/Lactose Intolerance
+Kefir,Milk Allergy/Lactose Intolerance
+Cottage Cheese,Milk Allergy/Lactose Intolerance
+Ricotta,Milk Allergy/Lactose Intolerance
+Almonds,Tree Nut Allergy
+Walnuts,Tree Nut Allergy
+Cashews,Tree Nut Allergy
+Pistachios,Tree Nut Allergy
+Hazelnuts,Tree Nut Allergy
+Brazil Nuts,Tree Nut Allergy
+Macadamia Nuts,Tree Nut Allergy
+Pine Nuts,Tree Nut Allergy/Pine Nut Syndrome
+Pecans,Tree Nut Allergy
+Peanuts,Peanut Allergy
+Sesame Seeds,Seed Allergy
+Sunflower Seeds,Seed Allergy
+Pumpkin Seeds,Seed Allergy
+Flaxseeds,Seed Allergy
+Chia Seeds,Seed Allergy
+Hemp Seeds,Seed Allergy
+Poppy Seeds,Seed Allergy
+Soybeans,Soy Allergy
+Lentils,Legume Allergy
+Chickpeas,Legume Allergy
+Black Beans,Legume Allergy
+Kidney Beans,Legume Allergy
+Lima Beans,Legume Allergy
+Navy Beans,Legume Allergy
+Pinto Beans,Legume Allergy
+Green Peas,Legume Allergy
+Green Beans,Legume Allergy
+Edamame,Soy Allergy
+Tofu,Soy Allergy
+Tempeh,Soy Allergy
+Miso,Soy Allergy
+Apples,Oral Allergy Syndrome/FODMAP Sensitivity
+Bananas,Latex-Fruit Syndrome/Banana Allergy
+Strawberries,Salicylate Allergy/Berry Allergy
+Blueberries,Salicylate Allergy/Berry Allergy
+Oranges,Citrus Allergy
+Lemons,Citrus Allergy
+Limes,Citrus Allergy
+Grapefruit,Citrus Allergy
+Peaches,Stone Fruit Allergy/Oral Allergy Syndrome
+Plums,Stone Fruit Allergy/Oral Allergy Syndrome
+Cherries,Stone Fruit Allergy/Oral Allergy Syndrome
+Apricots,Stone Fruit Allergy/Oral Allergy Syndrome
+Pears,Oral Allergy Syndrome/FODMAP Sensitivity
+Kiwi,Oral Allergy Syndrome/Latex-Fruit Syndrome
+Mango,Urushiol Sensitivity/Oral Allergy Syndrome
+Pineapple,Oral Allergy Syndrome/Bromelain Sensitivity
+Avocado,Latex-Fruit Syndrome
+Grapes,LTP Allergy/Sulfite Sensitivity
+Watermelon,Oral Allergy Syndrome
+Cantaloupe,Oral Allergy Syndrome
+Honeydew,Oral Allergy Syndrome
+Tomatoes,Nightshade Allergy/Oral Allergy Syndrome
+Potatoes,Nightshade Allergy/Potato Allergy
+Bell Peppers,Nightshade Allergy
+Eggplant,Nightshade Allergy
+Onions,Allium Allergy/FODMAP Sensitivity
+Garlic,Allium Allergy/FODMAP Sensitivity
+Carrots,Oral Allergy Syndrome
+Celery,Oral Allergy Syndrome/Celery Allergy
+Broccoli,Cruciferous Allergy
+Cauliflower,Cruciferous Allergy
+Brussels Sprouts,Cruciferous Allergy
+Cabbage,Cruciferous Allergy
+Spinach,Histamine Sensitivity/Oxalate Sensitivity
+Lettuce,LTP Allergy
+Cucumber,Oral Allergy Syndrome
+Zucchini,Cucurbit Allergy
+Pumpkin,Cucurbit Allergy
+Squash,Cucurbit Allergy
+Asparagus,Asparagus Allergy/FODMAP Sensitivity
+Mushrooms,Mushroom Allergy/Mold Allergy
+Salmon,Fish Allergy
+Tuna,Fish Allergy
+Cod,Fish Allergy
+Halibut,Fish Allergy
+Tilapia,Fish Allergy
+Trout,Fish Allergy
+Sardines,Fish Allergy
+Mackerel,Fish Allergy/Histamine Sensitivity
+Anchovies,Fish Allergy/Histamine Sensitivity
+Shrimp,Shellfish Allergy
+Crab,Shellfish Allergy
+Lobster,Shellfish Allergy
+Scallops,Shellfish Allergy
+Clams,Shellfish Allergy
+Oysters,Shellfish Allergy
+Mussels,Shellfish Allergy
+Squid,Mollusk Allergy
+Octopus,Mollusk Allergy
+Beef,Alpha-gal Syndrome/Meat Allergy
+Pork,Alpha-gal Syndrome/Meat Allergy
+Lamb,Alpha-gal Syndrome/Meat Allergy
+Chicken,Poultry Allergy
+Turkey,Poultry Allergy
+Duck,Poultry Allergy
+Goose,Poultry Allergy
+Rabbit,Meat Allergy
+Venison,Alpha-gal Syndrome/Meat Allergy
+Bison,Alpha-gal Syndrome/Meat Allergy
+Eggs,Egg Allergy
+Pepper,Spice Allergy
+Cinnamon,Spice Allergy
+Turmeric,Spice Allergy
+Cumin,Spice Allergy
+Coriander,Hypersensitivity
+Cloves,Spice Allergy
+Nutmeg,Spice Allergy
+Ginger,Spice Allergy
+Cardamom,Spice Allergy
+Basil,Herb Allergy
+Oregano,Herb Allergy
+Thyme,Herb Allergy
+Rosemary,Herb Allergy
+Mint,Mint Allergy
+Sage,Herb Allergy
+Parsley,Hypersensitivity
+Dill,Hypersensitivity
+Vanilla,Spice Allergy
+Chocolate,Cocoa Allergy/Milk Allergy
+Coffee,Caffeine Sensitivity
+Tea,Tannin Allergy
+Yeast,Yeast Allergy
+Honey,Honey Allergy/Bee Product Allergy
+Gelatin,Animal Protein Allergy
+Mushrooms,Mold Allergy/Mushroom Allergy
+Vinegar,Sulfite Sensitivity/Histamine Sensitivity
+Wine,Sulfite Sensitivity/Histamine Sensitivity/Alcohol Intolerance
+Beer,Gluten Allergy/Yeast Allergy/Hops Allergy
+Artificial Colors,Food Dye Sensitivity
+MSG,MSG Sensitivity
+Aspartame,Aspartame Sensitivity
+Sulfites,Sulfite Allergy
+Propolis,Bee Product Allergy
+Royal Jelly,Bee Product Allergy
+Seaweed,Iodine Sensitivity
+Peanut Oil,Peanut Allergy
+Soybean Oil,Soy Allergy
+Tree Nut Oils,Tree Nut Allergy
+Sesame Oil,Seed Allergy
+Sunflower Oil,Seed Allergy
+Olive Oil,Rare olive sensitivity
+Coconut Oil,Coconut Allergy
+Palm Oil,Palm Allergy
+Canola Oil,Rapeseed Allergy
+Corn Oil,Corn Allergy
+Wheat Flour,Gluten Allergy/Wheat Allergy
+Barley Flour,Gluten Allergy
+Rye Flour,Gluten Allergy
+Oats,Gluten Allergy/Oat Sensitivity
+Rice Flour,Rice Allergy
+Corn Flour,Corn Allergy
+Quinoa Flour,Pseudocereal Allergy
+Buckwheat Flour,Buckwheat Allergy
+Amaranth Flour,Pseudocereal Allergy
+Milk,Dairy Allergy/Lactose Intolerance
+Butter,Dairy Allergy/Lactose Intolerance
+Cream,Dairy Allergy/Lactose Intolerance
+Eggs,Egg Allergy
+Peanut Butter,Peanut Allergy
+Almond Flour,Tree Nut Allergy
+Walnuts,Tree Nut Allergy
+Pecans,Tree Nut Allergy
+Hazelnuts,Tree Nut Allergy
+Coconut,Tree Nut Allergy
+Soy Lecithin,Soy Allergy
+Soy Milk,Soy Allergy
+Chocolate,Milk Allergy/Soy Allergy
+Sesame Seeds,Sesame Allergy
+Sunflower Seeds,Seed Allergy
+Corn Starch,Corn Allergy
+Honey,Bee Pollen Sensitivity
+Food Coloring,Various Chemical Sensitivities
+Whey Protein,Dairy Allergy
+Vanilla Extract,Alcohol Sensitivity/Corn Allergy
+Yeast,Yeast Sensitivity
+Fish Gelatin,Fish Allergy
+Shellfish,Shellfish Allergy
+Pasta,Gluten Allergy/Wheat Allergy
+paprika,Spice Allergy/Nightshade allergy
+cheddar cheese,Milk Allergy/Lactose Intolerance
+Paneer,Lactose intolerance
+All-purpose flour,Gluten allergy
+Baking powder,Corn allergy
+Sugar,No allergy
+Egg,Egg Allergy
+Tomato,Nightshade Allergy/Oral Allergy Syndrome
+Potato,Nightshade Allergy/Potato Allergy
+Onion,Allium Allergy/FODMAP Sensitivity
+Green chillies,Nightshade allergy
+Mayonaise,Egg allergy
